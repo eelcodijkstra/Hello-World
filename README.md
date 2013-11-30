@@ -1,4 +1,4 @@
-Hello-World
-===========
+## Hello-World
 
-A first website
+A first website - just to test the possibilities of GitHub Pages.
+
