@@ -4,4 +4,5 @@ This file is intended as a test file, to discover what kind of processing occurs
 
 My preferred outcome: GitHub serves this as a text file, without any processing. This is indeed the case.
 
-By the way: the "Preview" of GitHub does Markdown-preprocessing.
+By the way: the "Preview" of GitHub does Markdown-preprocessing. It appears that GitHub also may be used as a MarkDown processor.
+
