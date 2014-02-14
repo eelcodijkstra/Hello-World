@@ -26,8 +26,8 @@
 </div>
 
 <script>
-	$.get( "test.html", function( data ) {
-          $( "#myText" ).html( data );
+	$.get( "test.md", function( data ) {
+          $( "#myText" ).html( '<p>' + data  + '</p>');
           alert( "Load was performed." );
         });
 </script>
