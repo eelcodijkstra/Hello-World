@@ -22,5 +22,15 @@
 
 <p> This text has been added in Cloud9. </p>
 
+<div id="myText">
+</div>
+
+<script>
+	$.get( "test.html", function( data ) {
+          $( "#myText" ).html( data );
+          alert( "Load was performed." );
+        });
+</script>
+
 </body>
 </html>
